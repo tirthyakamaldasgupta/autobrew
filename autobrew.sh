@@ -210,7 +210,7 @@ main() {
     # Customise the following list variables (tap_list, term_list and cask_list) 
     # Leave list blank or comment out the list if not required.
     tap_list=""
-    term_list="git htop wget curl tmux"
+    term_list=""
     cask_list="google-chrome docker free-download-manager firefox jetbrains-toolbox logitech-camera-settings logi-options+ opera raycast vlc vmware-fusion visual-studio-code"
     clear
     term_colors
