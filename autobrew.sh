@@ -211,7 +211,7 @@ main() {
     # Leave list blank or comment out the list if not required.
     tap_list=""
     term_list=""
-    cask_list="google-chrome docker free-download-manager firefox jetbrains-toolbox logitech-camera-settings logi-options+ opera raycast vlc vmware-fusion visual-studio-code"
+    cask_list="google-chrome docker free-download-manager firefox jetbrains-toolbox logitech-camera-settings logi-options+ opera raycast vagrant vagrant-vmware-utility vlc vmware-fusion visual-studio-code"
     clear
     term_colors
     script_info
